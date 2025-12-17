@@ -21,8 +21,6 @@ All images are in `/images`.
 
 ## Parts list
 
-*work in progress*
-
 Main parts used in this build.
 
 ![screen](/images/screen.png)  
@@ -38,6 +36,4 @@ Main parts used in this build.
 Total price: €111.66
 Total price + shipping: €135.52
 
-
-*links in progress*
 ---
