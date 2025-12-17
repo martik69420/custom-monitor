@@ -33,7 +33,8 @@ Main parts used in this build.
 - **HDMI switch** *€11.99*
 - **Extra HDMI cable** *€8.12*
 - **12V 3A power adapter** *€29.00*
-Total price: €111.66
-Total price + shipping: €135.52
+
+-Total price: €111.66
+-Total price + shipping: €135.52
 
 ---
