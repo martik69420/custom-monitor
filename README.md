@@ -27,7 +27,7 @@ Main parts used in this build.
 
 ![screen](/images/screen.png)  
 ![eDP controller kit](/images/eDP_controller_kit.png)  
-![HDMI switch](/images/HDMI_switch.png) 
+![HDMI switch and cable](/images/HDMI_switch.png) 
 ![power adapter](/images/power_adapter.png)
 
 - **screen** *€49.99*
